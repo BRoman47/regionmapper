@@ -1,6 +1,7 @@
 ## Download
 
-[Download RegionMapper v1.0.0](https://github.com/BRoman47/regionmapper/releases)
+[Download RegionMapper v1.0.0]
+https://github.com/BRoman47/regionmapper/releases
 
 RegionMapper v1.0.0
 
