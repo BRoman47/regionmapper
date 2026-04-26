@@ -48,9 +48,16 @@
 </p>
 
 <p align="center">
+  <img src="assets/images/menus/one_point_history.png" width="400">
+</p>
+
+<p align="center">
   <img src="assets/images/menus/four_point_menu.png" width="400">
 </p>
 
+<p align="center">
+  <img src="assets/images/menus/four_point_history.png" width="400">
+</p>
 ---
 
 ## ⚙️ How to use
