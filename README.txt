@@ -1,3 +1,7 @@
+## Download
+
+[Download RegionMapper v1.0.0](https://github.com/BRoman47/regionmapper/releases)
+
 RegionMapper v1.0.0
 
 Define. Map. Automate.
