@@ -18,12 +18,12 @@
 
 ## 🚀 Features
 
-* 🎯 One Point mapping
-* 🔲 Four Point mapping
-* ⚡ Live draggable overlay
-* 📋 Instant copy (F4)
-* 🕘 Persistent history
-* 🖤 Clean minimal UI
+* One Point mapping
+* Four Point mapping
+* Live draggable overlay
+* Instant copy (F4)
+* Persistent history
+* Clean minimal UI
 
 ---
 
@@ -56,24 +56,18 @@
 ## ⚙️ How to use
 
 1. Run the application
-2. Press **F2** to activate
+2. Press F2 to activate
 3. Move mouse to desired position
-4. Press **F4** to copy coordinates
+4. Press F4 to copy coordinates
 
 ---
 
 ## 📦 Download
 
-👉 [Download latest release](https://github.com/BRoman47/regionmapper/releases)
+👉 https://github.com/BRoman47/regionmapper/releases
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developed by
 
-**BRoman**
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a star ⭐
+BRoman
